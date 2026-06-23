@@ -88,9 +88,10 @@ When creating a browser UI from a Hebrew exam:
 3. Use real UTF-8 Hebrew strings for every UI label, title, button, feedback message, progress label, and summary label. Do not generate UI text through a shell path that can replace Hebrew with question-mark mojibake.
 4. If generating the file via PowerShell or another shell, write with an explicit UTF-8 path and verify the written file, not only the source template.
 5. For robust extraction, detect Hebrew option letters by Unicode code points for א, ב, ג, ד when shell quoting or regex literals may corrupt Hebrew text.
-6. Build the interface as an actual exam surface: one question at a time, four radio options, submit button, immediate correct/incorrect feedback, next button, progress indicator, score, and final missed-question review.
-7. Keep the answer key embedded only because the local quiz needs it for grading. Warn that the HTML is appropriate for practice or quality review, not for a secure proctored exam.
-8. Read `references/ui-html-checklist.md` before final delivery of an interactive UI.
+6. Build the interface as an actual exam surface: one question at a time, four radio options, submit button, immediate correct/incorrect feedback, next button, back button, progress indicator, score, and final missed-question review.
+7. For multi-version or multi-exam quiz UIs, include an end-of-exam achievement dashboard that summarizes all exam attempts in the file: per-exam completion, per-exam score, total answered questions, total correct answers, overall accuracy, and a way to return to a specific exam/question. Preserve the final missed-question review for the current exam.
+8. Keep the answer key embedded only because the local quiz needs it for grading. Warn that the HTML is appropriate for practice or quality review, not for a secure proctored exam.
+9. Read `references/ui-html-checklist.md` before final delivery of an interactive UI.
 
 ## Hebrew And RTL Requirements
 

@@ -12,7 +12,9 @@ Use this checklist before delivering an interactive Hebrew multiple-choice exam.
 - The quiz gives immediate feedback after submission.
 - After a wrong answer, the UI shows the correct answer.
 - The next question appears only after feedback is visible.
-- The final screen shows score and missed-question review with selected and correct answers.
+- A back button allows returning to the previous question without losing already submitted answers or feedback.
+- For multi-version or multi-exam quiz files, the end screen includes an achievement dashboard with per-exam progress, per-exam score, overall answered count, overall correct count, overall accuracy, and navigation back into a selected exam/question.
+- The final screen shows score and missed-question review with selected and correct answers. For multi-exam files, this review appears alongside or below the achievement dashboard for the current exam.
 
 ## Hebrew And Encoding
 
@@ -27,6 +29,8 @@ Use this checklist before delivering an interactive Hebrew multiple-choice exam.
   - `נכון`
   - `לא נכון`
   - `סיכום המבחן`
+  - `חזרה`
+  - `דשבורד הישגים`
 - If static UI strings become repeated question marks, do not patch the browser output manually. Regenerate or patch the HTML source using explicit UTF-8 writing and verify the file again.
 
 ## Parsing And Data Integrity
