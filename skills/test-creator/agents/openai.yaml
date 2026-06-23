@@ -1,0 +1,4 @@
+interface:
+  display_name: "Test Creator"
+  short_description: "Create fair Hebrew multiple-choice exams"
+  default_prompt: "Use $test-creator to create a Hebrew multiple-choice exam from the provided learning materials."
