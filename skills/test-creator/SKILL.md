@@ -66,6 +66,7 @@ When the user asks for a UI, quiz app, browser version, shareable file, or inter
    - Use concise, relevant scenarios with enough information to solve.
    - Avoid unnecessary reading load.
    - Test use of the material, not merely term recognition.
+   - Do not prepend generic context phrases such as "במהלך פגישה טיפולית", "בבחירת התערבות", "בהערכת התקדמות", "כאשר מטופל מתאר קושי", or "במקרה של מטופל" unless that context is specific, source-grounded, and necessary to answer the item. Generic prefixes confuse examinees and can make an otherwise direct question clinically inaccurate.
 
 7. Balance the answer key:
    - For 80 questions, aim for about 20 correct answers each for א, ב, ג, ד.
