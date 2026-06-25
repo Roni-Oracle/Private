@@ -27,6 +27,8 @@ Include a separate answer key for the examiner only. If the user asks for a stud
 
 When the user asks for a UI, quiz app, browser version, shareable file, or interactive exam, create a single self-contained `.html` file by default. The HTML file must work from `file://` with no server or internet.
 
+When the user asks for several exams, multiple versions, a full course exam set, or a quiz UI containing multiple exams, read `references/multi-exam-generation.md` before drafting. That reference is mandatory for multi-exam work.
+
 ## Workflow
 
 1. Analyze the supplied sources before writing questions:
@@ -55,6 +57,8 @@ When the user asks for a UI, quiz app, browser version, shareable file, or inter
    - When one option must contain a technical qualifier, add comparable qualifiers or detail to the other options.
    - Prefer parallel syntax: same grammatical opening, same level of abstraction, and similar use of examples.
    - Check that option endings match the stem grammatically, so one option is not exposed by agreement, tense, gender, number, or syntax.
+   - Do not make the correct answer telegraphic or vague just to shorten it. If the correct answer needs detail to be understandable, keep it clear and extend the distractors with plausible, meaningful detail instead.
+   - Do not pad distractors with empty phrases. Any added detail must represent a realistic misconception or wrong clinical move.
 
 5. Write high-quality distractors:
    - Base distractors on confusion between close concepts, overgeneralization, partial understanding, correct model in wrong context, cause-effect reversal, plausible misreading of a case, or unsupported but tempting inference.
@@ -77,6 +81,7 @@ When the user asks for a UI, quiz app, browser version, shareable file, or inter
 8. Run quality control and revise:
    - Review every question for source grounding, clarity, one best answer, distractor quality, fairness, independence, and absence of technical clues.
    - Review the full exam for coverage, difficulty, cognitive level, duplicated objectives, answer distribution, Hebrew consistency, and RTL formatting.
+   - For multi-exam outputs, run checks for: true cross-exam uniqueness, source coverage, at least the requested medication-question count per exam, no generic question prefixes, answer-length cue risk, and UI integrity when relevant.
    - Fix problems directly. Do not merely report them.
    - After each fix, re-check that the answer key still matches the revised question.
 
@@ -109,13 +114,16 @@ Write in correct Hebrew for right-to-left readers:
 
 ## Multi-Version Exams
 
-When creating several versions:
+When creating several versions or exams:
 
+- Read `references/multi-exam-generation.md` before drafting.
+- Do not build one question bank and shuffle it between exams.
 - Do not duplicate questions across versions.
 - Do not reuse a question with only cosmetic wording changes.
-- Test the same learning objective from different angles: definition, concept distinction, case identification, application, analysis, or error detection.
-- Keep versions equivalent in coverage, cognitive level, difficulty, reading load, and case-question share.
-- Avoid reusing the same examples or cases too often.
+- Make exams genuinely different: use different learning objectives, cases, examples, and cognitive angles while keeping coverage and difficulty equivalent.
+- For the same topic, vary the task type across exams: definition, concept distinction, concise clinical application, common-error detection, intervention choice, or integration across topics.
+- Keep every standalone exam broad: do not let one version focus on only one part of the course.
+- Track overlap explicitly. Before delivery, verify that repeated or near-duplicate questions across versions are zero or explain any unavoidable overlap.
 
 ## Delivery Format
 
