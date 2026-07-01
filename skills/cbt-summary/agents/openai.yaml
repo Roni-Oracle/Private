@@ -1,0 +1,4 @@
+interface:
+  display_name: "CBT Summary"
+  short_description: "סיכום מקרה LI CBT בעברית למטפל"
+  default_prompt: "Use $cbt-summary to analyze patient materials and produce a comprehensive Hebrew CBT case summary for the therapist."
