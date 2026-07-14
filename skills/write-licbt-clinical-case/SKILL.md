@@ -1,13 +1,13 @@
 ---
 name: write-licbt-clinical-case
-description: Write, improve, compress, or audit a professional Hebrew LI-CBT/LICBT clinical case or long-case portfolio from patient notes, intake forms, session summaries, measures, CBT worksheets, course materials, templates, and grading rubrics. Use for requests such as כתיבת מקרה קליני, הצגת מקרה ארוך, פורטפוליו CBT, סיכום תהליך טיפולי, בדיקת מקרה לפי מחוון, קיצור עבודה ל-5–8 עמודים, or an expert lecturer review of an LI-CBT case. Produce a clinically cautious, evidence-grounded, engaging 5–8-page case and run both CBT-clinician and LI-CBT-lecturer quality-control passes before delivery.
+description: Write, improve, structure, or audit a professional Hebrew LI-CBT/LICBT clinical case or long-case portfolio from patient notes, intake forms, session summaries, measures, CBT worksheets, course materials, templates, and grading rubrics. Use for requests such as כתיבת מקרה קליני, הצגת מקרה ארוך, פורטפוליו CBT, סיכום תהליך טיפולי, בדיקת מקרה לפי מחוון, תעדוף חכם של כלי טיפול, or an expert lecturer review of an LI-CBT case. Produce a clinically cautious, evidence-grounded, engaging 8–15-page case with selective anonymized evidence appendices when permitted, and run both CBT-clinician and LI-CBT-lecturer quality-control passes before delivery.
 ---
 
 # Write an LI-CBT Clinical Case
 
 ## Objective
 
-Create a focused, professional, intelligent, readable clinical case that reflects the treatment actually delivered, satisfies the course rubric, protects the patient, and fits 5–8 final pages without padding or clinically important omissions.
+Create a focused, professional, intelligent, readable clinical case that reflects the treatment actually delivered, satisfies the course rubric, protects the patient, and is as long as needed for adequate clinical depth—normally 8–15 rendered body pages—without padding or clinically important omissions. Use selective anonymized evidence appendices when permitted.
 
 Write in Hebrew and RTL unless the user requests another language. Prefer a polished `.docx` when the user asks for a document; otherwise provide finished structured text.
 
@@ -70,13 +70,15 @@ Define one sentence that explains the case:
 
 Use this thesis to decide what deserves space. Prefer evidence that advances formulation, intervention, decision, or outcome.
 
-### 4. Plan the 5–8 pages before drafting
+### 4. Build coverage before planning the length
 
 Use `references/compression-and-structure.md`. Aim for 6–7 pages so final rendering has room to vary.
 
-Default text target when actual pagination is unavailable: approximately 2,500–3,600 Hebrew words, including headings and bibliography. Treat this only as an estimate; actual pagination controls.
+Before drafting prose, create the internal rubric-and-evidence map described in that reference. Classify each required item and actual tool as: `required in depth`, `embed in vignette`, `concise mention`, `not used`, or `missing evidence`. Map it to a body location or, if permitted, a selective appendix. Do not deliver this map unless requested.
 
-Do not reach the page limit by shrinking below 10.5–11 pt, using very narrow margins, or compressing line spacing unnaturally. Shorten content instead.
+Plan 3–4 rich clinical turning-point vignettes that collectively make the required tools, therapist reasoning, patient response, and next decisions visible. Use the shortest body that meets the evidence standard; normally target 8–15 rendered pages. Actual instructor limits override this range. If rendering is unavailable, use a tentative target of roughly 4,000–7,000 Hebrew words, then state that the page count is an estimate.
+
+Do not reach any page limit by shrinking below 10.5–11 pt, using very narrow margins, or compressing line spacing unnaturally. Remove only duplicated, generic, or clinically irrelevant content.
 
 ### 5. Draft a coherent clinical narrative
 
@@ -85,20 +87,20 @@ Write in this order unless the case requires a justified variation:
 1. Title, anonymization statement, case snapshot, setting, and treatment status.
 2. Focused intake, presenting complaint, 4W/FFF, functioning, strengths, risk, scope, and measures.
 3. individualized maintenance cycle, formulation, focused emotional/behavioral goal, and plan.
-4. treatment course organized by meaningful phases and turning points rather than a diary of every meeting.
+4. treatment course organized by 3–4 meaningful phases and rich turning-point vignettes rather than a diary of every meeting.
 5. selected cognitive and behavioral work with actual evidence, including the five empathy principles.
 6. measurement trend, obstacles, supervision, results, termination, relapse prevention, and reflection.
 7. concise bibliography.
 
-For every selected intervention, use the evidence chain:
+For every major intervention, use the evidence chain:
 
 `when and why → therapist wording/action → patient response → artifact/rating → result → next decision`.
 
 Make the text interesting through clinical specificity, patient voice, dilemmas, turning points, and reflective honesty. Do not use dramatization, praise, or generic textbook prose as a substitute for evidence.
 
-### 6. Represent the required tools compactly
+### 6. Represent the required tools with sufficient clinical depth
 
-Keep the correct sequence and course logic. Cover only tools actually used, while flagging rubric gaps. Use compact examples rather than full forms:
+Keep the correct sequence and course logic. Cover only tools actually used, while flagging rubric gaps. For every explicit rubric requirement or clinically pivotal tool, show the context, rationale, therapist action, patient response or artifact, result, and next decision. Embed connected tools in the same vignette where that reflects the actual treatment; do not reduce them to a name or unsupported sentence.
 
 - one precise example each from diaries 1, 2, and 3;
 - one meaningful Socratic dialogue, labeled by question function when useful;
@@ -107,7 +109,9 @@ Keep the correct sequence and course logic. Cover only tools actually used, whil
 - the avoidant/safety-behavior table before exposure work;
 - core-belief challenge across two sessions and the behavioral experiment between them, when performed;
 - exposure/activation/problem-solving evidence with prediction, action, result, and learning;
-- a compact five-row empathy table containing one short dialogue excerpt per principle, its function, and the patient's response.
+- a five-row empathy table containing one short dialogue excerpt per principle, context, function, patient response, and observed effect.
+
+When permitted, create selective anonymized appendices that substantiate the body: fuller excerpts of decisive worksheets, dialogue, measures, homework, or relapse-prevention work. Refer to each appendix precisely from the relevant vignette; do not turn appendices into an uncurated dump of raw forms.
 
 ### 7. Run the CBT expert review
 
@@ -129,11 +133,11 @@ Adopt the stance of a qualified lecturer grading a long LI-CBT case. Identify li
 - concise evidence for every important claim;
 - intelligent reflection and use of supervision;
 - readability, structure, professional Hebrew, and a clear clinical arc;
-- a final length of 5–8 pages.
+- a final rendered body length that is adequate to evidence the work—normally 8–15 pages—plus selective appendix pages when permitted.
 
 Do not merely score the draft. Apply the revisions.
 
-### 9. Compress with clinical judgment
+### 9. Edit with clinical judgment
 
 Delete in this order:
 
@@ -145,7 +149,7 @@ Delete in this order:
 6. session-by-session logistics—retain milestones and turning points;
 7. weak adjectives, meta-commentary, and defensive justifications.
 
-Never cut safety/scope, the presenting complaint and 4W, measure trends, formulation, goal, core intervention evidence, five empathy principles, outcome, relapse prevention, supervision, or reflection merely to meet length.
+Never cut safety/scope, the presenting complaint and 4W, measure trends, formulation, goal, core intervention evidence, five empathy principles, outcome, relapse prevention, supervision, or reflection merely to meet length. If these requirements cannot be presented legibly within an explicit instructor limit, explain the conflict and offer a selective appendix where permitted.
 
 ### 10. Verify length and deliver
 
@@ -155,12 +159,12 @@ Run:
 python scripts/audit_case.py <draft.md-or-docx>
 ```
 
-If creating a Word document, use the available document-generation skill and render the `.docx` to confirm the actual page count and RTL layout. Iterate until the final body, including references unless the course says otherwise, is 5–8 pages. Keep optional raw forms in a separate anonymized appendix only if permitted.
+If creating a Word document, use the available document-generation skill and render the `.docx` to confirm the actual body page count, appendix page count, and RTL layout. Iterate until the body has adequate depth and rubric coverage—normally 8–15 pages, unless the instructor specifies otherwise. Keep only selected, anonymized, cross-referenced evidence in appendices when permitted.
 
 Deliver:
 
 - the final case text or `.docx`;
-- actual page count when rendered, otherwise word count plus estimated range;
+- rendered body and appendix page counts when available, otherwise word count plus estimated range;
 - a brief quality note listing the two review passes completed;
 - only unresolved material gaps or supervision issues that remain clinically important.
 

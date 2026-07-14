@@ -1,127 +1,99 @@
-# Five-to-eight-page architecture
+# Evidence-first architecture for an LI-CBT clinical case
 
-## Default formatting and length
+## Governing principle
 
-Use A4 or Letter portrait, approximately 2–2.5 cm margins, a readable Hebrew font at 10.5–11 pt or larger, 1.15–1.25 line spacing, and modest paragraph spacing. Do not game the page limit through tiny type or narrow margins.
+Build a clinically rich, rubric-visible case first; edit for economy only after the case proves the clinical work. Do not make a tool, clinical decision, or patient response disappear merely to reach a page target.
 
-When pagination cannot be measured, target roughly 2,500–3,600 Hebrew words. Aim for 6–7 pages, then render and adjust. Actual rendered pages override the estimate.
+The body should usually be 8–15 rendered pages in readable RTL formatting. Treat this as a judgment range, not a quota: use the shortest length that allows a reader to understand the treatment, see the required evidence, and assess the student's clinical reasoning. Explicit instructor requirements override this range.
 
-Unless the course says otherwise, count title, body, compact tables, and bibliography within 5–8 pages. Put raw anonymized forms in a separate appendix only when permitted.
+Do not pad with generic theory, repeated examples, full transcripts, or decorative wording. Do not achieve brevity with tiny type, narrow margins, or cramped tables.
 
-## Page budget
+## Build the internal coverage map before drafting
 
-| Section | Suggested space | Keep |
+Create an internal `rubric-and-evidence map`; do not deliver it unless requested. For every rubric item and every tool actually used, record:
+
+| Field | Record |
+|---|---|
+| Requirement/tool | Exact rubric requirement or actual intervention |
+| Status | Required in depth / embed in a vignette / concise mention / not used / missing evidence |
+| Evidence | Session or phase, patient words/data, artifact, result, and next decision |
+| Clinical role | Maintaining mechanism, therapeutic aim, or dilemma addressed |
+| Final location | Section, vignette, table, or appendix reference |
+
+Assign **required in depth** to explicit rubric requirements and to interventions that materially changed the formulation, treatment plan, or outcome. Assign **embed in a vignette** when one well-evidenced clinical moment can demonstrate several requirements. Use concise mention only for a genuinely supporting tool whose purpose, response, and result are already clear elsewhere. Never use a concise mention to conceal a missing required example.
+
+Prioritize an item when it is: (a) explicitly required; (b) causally important to formulation, intervention choice, or outcome; (c) supported by patient voice, an artifact, a rating, or behavioral evidence; (d) a meaningful turning point, setback, resistance, or supervision decision. Remove only duplicated or clinically irrelevant detail.
+
+## The unit of depth: the clinical evidence capsule
+
+For each major tool or decision, show a compact but complete chain:
+
+`trigger/context → why this tool now → therapist action or wording → patient response/data/artifact → result/learning → next clinical decision`.
+
+Use this sequence in prose, a compact table, or a callout. Do not write unsupported statements such as “we used X successfully.” A strong capsule is normally 90–160 words; it may prove several connected requirements at once.
+
+## Organize the body around clinical turning points
+
+Use 3–4 rich, evidence-based vignettes rather than a diary of every session. Select turning points that collectively cover the actual protocol and the rubric, for example:
+
+1. Engagement, individualized psychoeducation, maintenance cycle, monitoring, and early cognitive work.
+2. Socratic work, downward arrow, formulation, diary 3, and core-belief work.
+3. Behavioral work—experiment, exposure, activation, or problem solving—linked to avoidance/safety behavior.
+4. Consolidation, setback/non-response if relevant, outcome review, and relapse prevention.
+
+Within a vignette, make the causal chain visible: formulation → chosen intervention → patient response → revision or continuation. Integrate tools when they were actually linked in treatment; do not group them merely because the course teaches them together.
+
+The five empathy principles require five distinct, anonymized micro-examples. A five-row table may save space, but each row must include context, therapist line, patient response, clinical function, and observed effect—not just the principle's name.
+
+## Suggested body allocation
+
+Adjust to the case; protect treatment evidence before background. A typical 10–12-page body allocates:
+
+| Section | Typical space | Purpose |
 |---|---:|---|
-| Title, anonymization, snapshot | 0.25–0.5 page | thesis, setting, treatment status |
-| Intake, complaint, 4W/FFF, risk, scope, baseline | 0.75–1 page | only formulation-relevant background |
-| Measures, maintenance cycle, formulation, goal, plan | 1–1.25 pages | individualized causal logic |
-| Treatment course and selected evidence | 2.5–3.5 pages | phases, turning points, strongest cognitive and behavioral examples, empathy |
-| Outcomes, ending, relapse prevention | 0.75–1 page | trends, function, limits, next steps |
-| Supervision, reflection, bibliography | 0.5–0.75 page | intelligent learning and core sources |
+| Snapshot, setting, and clinical thesis | 0.5 page | Orient the reader quickly |
+| Focused assessment, suitability, risk, and baseline | 1–1.5 pages | Establish the clinical problem and safe scope |
+| Measures, maintenance cycle, formulation, goal, and plan | 1.5–2 pages | Make the causal treatment logic visible |
+| Treatment vignettes and required tool evidence | 4–6 pages | Demonstrate the therapist's work and reasoning |
+| Outcomes, ending, relapse prevention | 1–1.5 pages | Compare change with limits and next steps |
+| Supervision, reflection, and bibliography | 0.75–1.25 pages | Show judgment, learning, and sources |
 
-Adjust the allocation to the clinical thesis. Never allow background or generic theory to crowd out the treatment process.
+For an 8-page body, compress background and use dense evidence capsules; do not compress the treatment vignettes below what is needed for rubric evidence. For a 13–15-page body, add depth only where it reveals a different clinical mechanism, decision, patient response, or learning.
 
-## Compact final structure
+## Use tables to increase evidence density—not to hide it
 
-### 1. Case snapshot and setting
+Useful devices include:
 
-Use 1–2 paragraphs. Identify the patient only by a pseudonym and broad context. State referral, chief problem, number/status of sessions, and the central clinical thesis.
+- a milestone table: phase, target/mechanism, intervention, patient evidence, result, next decision;
+- a measures trend table with brief clinical interpretation;
+- an avoidance/safety-behavior table that directly feeds the behavioral plan;
+- a behavioral experiment/exposure table: prediction, action, safety-behavior change, outcome, learning;
+- the five-row empathy table.
 
-### 2. Focused assessment
+Keep the surrounding prose when it is needed to explain reasoning. Use a table only if it is legible and conveys the evidence more clearly than narrative.
 
-Use short paragraphs or a compact table for:
+## Evidence appendices when permitted
 
-- clinically relevant history and strengths;
-- complaint quote, 4W, FFF, impairment, avoidance/safety behavior;
-- risk, suitability, differential considerations, and baseline measures.
+Use anonymized, selective appendices when the instructor permits them. The body must remain intelligible and clinically persuasive without opening an appendix; an appendix substantiates a claim rather than replacing it.
 
-### 3. Formulation, goal, and plan
+Include only material that adds verifiable depth, such as:
 
-Show one individualized maintenance cycle and one compact formulation. State the patient's goal and the operational X-to-Y target. Connect each planned intervention to a maintaining mechanism.
+- a completed or fuller excerpt of a decisive diary, formulation, hierarchy, or behavioral experiment;
+- a longer transcript excerpt for a key Socratic dialogue, downward arrow, or empathy moment;
+- detailed measure data or a figure when the body contains the interpreted trend;
+- selected homework records or relapse-prevention material relevant to a stated result.
 
-### 4. Treatment course by phases
+Give each appendix a short anonymized title and refer to it once from the body, for example: `ראו נספח ב׳: יומן 3 שנדון בוינייטה 2`. Do not attach every raw worksheet, duplicate evidence, identifiers, or material not used in the clinical argument.
 
-Prefer 3–5 phases over a meeting-by-meeting log:
+## If the rubric and page limit conflict
 
-1. engagement, psychoeducation, motivation, and monitoring;
-2. diaries 1–2, Socratic work, and emerging patterns;
-3. downward arrow, formulation, diary 3, and core-belief work;
-4. behavioral intervention and experiments/exposure/activation;
-5. consolidation, outcome review, and ending.
+Do not silently make the report shallow. First use evidence capsules, multi-requirement vignettes, and selective appendices. If legible coverage of an explicit requirement still cannot fit, state the conflict, identify the affected rubric item, and ask the user whether the instructor permits an appendix or a longer body. Do not invent coverage or remove safety, risk/scope, measurement interpretation, formulation, core intervention evidence, five empathy principles, outcome, relapse prevention, supervision, or reflection.
 
-For each phase, state: purpose, selected evidence, response, and decision. Include only decisive worksheets and quotations.
+## Final editing pass
 
-### 5. Outcomes and ending
-
-Use a small trend table or concise paragraph. Compare scores and behavior, explain discrepancies, state unmet goals, and show relapse prevention and follow-up.
-
-### 6. Supervision and reflection
-
-Choose 1–2 high-value supervision moments. Reflect on judgment, alliance, timing, limits, and what would change—not only on whether the student "felt good".
-
-## Selection test
-
-Keep a detail only when it answers at least one question:
-
-- Does it change the formulation?
-- Does it affect risk, scope, ethics, or suitability?
-- Does it explain the choice or timing of an intervention?
-- Does it demonstrate patient change or non-change?
-- Is it explicit in the grading rubric?
-- Does it reveal patient voice, alliance, or an important clinical dilemma?
-- Does it support a thoughtful reflection?
-
-If none applies, omit it.
-
-## Compression hierarchy
-
-### Preserve
-
-- patient complaint and one precise 4W/FFF example;
-- risk/scope and measurement trend;
-- individualized maintenance cycle and formulation;
-- focused goal and formulation-driven plan;
-- actual intervention evidence and patient response;
-- five empathy principles in compact dialogue form;
-- behavioral change evidence;
-- outcome, relapse prevention, supervision, and reflection.
-
-### Compress
-
-- demographics into one sentence;
-- multiple sessions into phases;
-- full worksheets into one row/example plus result;
-- long dialogue into 1–3 decisive exchanges;
-- measure history into one table/graph and interpretation;
-- psychoeducation into what was said and how the patient used it;
-- literature into a short bibliography.
-
-### Remove first
-
-- generic definitions of CBT, DSM, or common disorders;
-- repeated claims that the alliance was good without evidence;
-- every session date and routine agenda item;
-- several examples of the same distortion or tool;
-- long descriptions of unused tools;
-- decorative adjectives and self-congratulatory language;
-- details included only because they were collected at intake.
-
-## Strong compact devices
-
-- A six-column milestone table: phase, clinical target, intervention, patient evidence, result, decision.
-- A five-row empathy table.
-- A measure trend table with brief interpretation.
-- One formulation diagram or dense paragraph, not both.
-- One exposure/experiment table with prediction, action, outcome, learning.
-
-Use tables only when they save space and remain readable. Avoid shrinking text to fit tables.
-
-## Final tightening pass
-
-1. Mark every sentence as `fact`, `patient voice`, `clinical inference`, `rationale`, `result`, or `reflection`.
-2. Delete unmarked sentences.
-3. Merge repetitions.
-4. Replace generic explanation with an individualized example.
-5. Retain the strongest quotation and strongest behavioral evidence for each claim.
-6. Check that shortening did not break chronology or remove the reason for a clinical decision.
-7. Render again and repeat until 5–8 pages.
+1. Confirm that every explicit rubric item has a visible location in the body or, where permitted, a precise appendix reference.
+2. Check every major intervention for a clinical evidence capsule.
+3. Remove generic teaching, repeated conclusions, routine session logistics, and duplicate examples.
+4. Replace vague claims with the strongest patient quotation, rating, artifact, or behavioral result.
+5. Verify that tables remain readable after rendering and that the treatment sequence remains clear.
+6. Report rendered body pages and appendix pages separately.

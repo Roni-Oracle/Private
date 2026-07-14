@@ -1,4 +1,4 @@
 interface:
   display_name: "כתיבת מקרה קליני LI-CBT"
-  short_description: "כתיבת מקרה מקצועי וממוקד ב־5–8 עמודים"
-  default_prompt: "השתמש ב-$write-licbt-clinical-case כדי לכתוב ולבקר מקרה קליני LI-CBT מקצועי, מעניין ותמציתי באורך 5–8 עמודים."
+  short_description: "כתיבת מקרה LI-CBT מקצועי ומבוסס ראיות"
+  default_prompt: "השתמש ב-$write-licbt-clinical-case כדי לכתוב ולבקר מקרה קליני LI-CBT מקצועי, מעמיק ומבוסס ראיות, עם תעדוף חכם של כלי הטיפול ונספחים אנונימיים כשמותר."
